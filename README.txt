@@ -1,0 +1,1 @@
+Page web simple présentant le CV de Caliméro.
