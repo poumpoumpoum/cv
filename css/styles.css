@@ -63,8 +63,8 @@ section {
     background-color: rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     box-shadow: 5px 5px 2px darkred;
-    border-left: 3px solid grey;
-    border-top: 3px solid grey;
+    border-left: 4px solid grey;
+    border-top: 4px solid grey;
 }
 
 #titre {
